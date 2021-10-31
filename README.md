@@ -7,7 +7,7 @@ Esta incluido los modulos de node
 ```
 mpm install
 ```
-Y para contruir el build, recuerden:
+Y para construir el build, recuerden:
 ```
 mpm run build
 ```
